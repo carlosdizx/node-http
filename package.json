@@ -1,0 +1,19 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node http example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdizx/node-http.git"
+  },
+  "author": "Carlos Díaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdizx/node-http/issues"
+  },
+  "homepage": "https://github.com/carlosdizx/node-http#readme"
+}
